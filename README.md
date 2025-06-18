@@ -37,17 +37,6 @@ Atualmente sou Analista de Suporte II, mas estou em transição para Desenvolved
 
 ---
 
-## Meus Projetos
-
-- **StockFly** – Rastreador de carteira de ações com visualizações de performance.
-- **Sistema de Orçamentos para Autônomos** – Emissão de orçamentos, controle de despesas e relatórios.
-- **Painel de Catálogo & Pedidos por Link** – Catálogo online que gera links diretos de pedido.
-
-Confira todos no portfólio:  
-🔗 https://portfolio-eight-beige-91.vercel.app/
-
----
-
 ## Tech Stack
 
 <p>
@@ -84,15 +73,3 @@ Confira todos no portfólio:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo-Baron&show_icons=true&locale=pt-BR" alt="Estatísticas"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Murilo-Baron&layout=compact&locale=pt-BR" alt="Linguagens"/>
 </p>
-
----
-
-## Curiosidade do Dia
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%" alt="Joke"/>
-</p>
-
----
-
-_Última atualização: 18 de junho de 2025_
