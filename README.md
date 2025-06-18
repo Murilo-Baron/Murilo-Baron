@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://portfolio-eight-beige-91.vercel.app/"><img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Chrome"/></a>
   <a href="https://portfolio-eight-beige-91.vercel.app/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox-browser&logoColor=white" alt="Firefox"/></a>
-  <a href="https://portfolio-eight-beige-91.vercel.app/"><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=tor-browser&logoColor=white" alt="Tor"/></a>
 </p>
 
 <p align="center">
